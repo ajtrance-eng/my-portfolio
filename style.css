@@ -1,0 +1,36 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background: #dbe3ea;
+    text-align: center;
+}
+
+header{
+    padding: 40px;
+}
+
+.profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 20px;
+}
+
+section{
+    margin: 40px;
+    padding: 20px;
+}
+
+.gallery img{
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+footer{
+    background: black;
+    color: white;
+    padding: 20px;
+}
